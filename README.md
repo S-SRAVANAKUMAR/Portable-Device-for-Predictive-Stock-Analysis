@@ -1,0 +1,2 @@
+# Portable-Device-for-Predictive-Stock-Analysis
+We have leveraged the power of IoT and Machine Learning successfully to build a project in the Finance Industry. As per the features and scope of this project, the users must be able to get the updates and financial advice related to the stocks/shares of their preferred company by continuously monitoring activities and changes that might directly or indirectly effect their investments.
